@@ -1,0 +1,6 @@
+https://www.javatpoint.com/anonymous-inner-class
+https://www.w3schools.com/java/java_inner_classes.asp
+https://www.javatpoint.com/nested-interface
+https://www.javatpoint.com/Garbage-Collection
+https://www.javatpoint.com/java-multithreading-interview-questions
+https://www.javatpoint.com/java-collections-interview-questions

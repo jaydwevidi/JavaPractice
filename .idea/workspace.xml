@@ -4,56 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bd035da-45db-4b12-a837-74feeaa8c802" name="Changes" comment="">
+    <list default="true" id="3bd035da-45db-4b12-a837-74feeaa8c802" name="Changes" comment="set value stream to array">
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/Collections/Basics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/Collections/ComparingObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/Collections/ComparingObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/Collections/ConversionsCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/Collections/ConversionsCommands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/Collections/Hashmaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/Collections/Hashmaps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/Collections/Iterator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/Collections/Iterator1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/Collections/LinkL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/Collections/LinkL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/Collections/Resources.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/Collections/Resources.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/Collections/Shuffle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/Collections/Shuffle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/Collections/TSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/Collections/TSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/DataStructureImplementation/Driver04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/DataStructureImplementation/Driver04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/DataStructureImplementation/HTSeperateChaining.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/DataStructureImplementation/HTSeperateChaining.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/ExceptionHandeling/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/ExceptionHandeling/MyException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/ExceptionHandeling/ThrowsExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/ExceptionHandeling/ThrowsExamples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/Hello.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/MultiThreadig/ASF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/MultiThreadig/ASF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/further Reading.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/further Reading.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/keywords/Final01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/keywords/Final01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/keywords/Static2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/keywords/Static2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/keywords/StaticExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/keywords/StaticExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/oops/Overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/oops/Overloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/practice/StringPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/practice/StringPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/rand/AA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/rand/AA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/rand/AbstractClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/rand/AbstractClasses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/rand/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/rand/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/rand/Batman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/rand/Batman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/rand/Bench.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/rand/Bench.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/rand/Blank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/rand/Blank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/rand/Compress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/rand/Compress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/rand/HashSet1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/rand/HashSet1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/rand/InterfaceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/rand/InterfaceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/rand/JStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/rand/JStar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/rand/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/rand/Matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/rand/OpenNotepad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/rand/OpenNotepad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/rand/Random01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/rand/Random01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/rand/Random02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/rand/Random02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/rand/Random03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/rand/Random03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/rand/RandomScienceExperiment1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/rand/RandomScienceExperiment1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/rand/Scope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/rand/Scope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/rand/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/rand/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/rand/Tus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/rand/Tus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/rand/Tushar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/rand/Tushar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/rand/XX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/rand/XX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/rand/bla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/rand/bla.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSyntax/strings/Aa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/strings/Aa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaPractice/Collections/Hashmaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/Collections/Hashmaps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -69,32 +35,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/xluthor/Academics/DSA/java/containd/javaPractice/src&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/xluthor/Academics/DSA/java/containd/javaPractice2/src"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Lamda2Kt">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.Hashmaps">
+    <configuration name="Basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPractice.Collections.Basics" />
       <module name="javaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaPractice.Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Random02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPractice.rand.Random02" />
+    <configuration name="Hashmaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPractice.Collections.Hashmaps" />
       <module name="javaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaPractice.rand.*" />
+          <option name="PATTERN" value="JavaPractice.Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hashmaps" />
+        <item itemvalue="Application.Basics" />
         <item itemvalue="Kotlin.Lamda2Kt" />
         <item itemvalue="Kotlin.CoroutinesKt" />
         <item itemvalue="Kotlin.HelloKt" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Random02" />
       </list>
     </recent_temporary>
   </component>
@@ -143,5 +115,9 @@
       <updated>1671875276219</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="set value stream to array" />
+    <option name="LAST_COMMIT_MESSAGE" value="set value stream to array" />
   </component>
 </project>

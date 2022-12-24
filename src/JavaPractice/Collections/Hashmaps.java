@@ -1,8 +1,6 @@
 package JavaPractice.Collections;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
 
 public class Hashmaps {
     public static void main(String[] args) {
@@ -17,16 +15,17 @@ public class Hashmaps {
 
         System.out.println(animals.containsKey("Dog"));
 
-        System.out.println(animals.containsValue("Random Batman"));
+        System.out.println(animals.containsValue("Random Batman")); // should be double
         System.out.println(animals.containsValue(4.0));
 
         System.out.println(animals.get("Dog"));
         System.out.println(animals.get("Fish"));
 
         Set<String> animalNamesSet = animals.keySet();
-        //List<Double> animalValues = animals.values().stream().toList();
+        var animalValues = animals.values().stream().toArray();
 
-        System.out.println(animals.keySet());
+        System.out.println(animalNamesSet);
+        System.out.println("values =  "+ animalValues[0] + " , " + animalValues[1]);
         //System.out.println(animalValues);
         System.out.println(animals);
 

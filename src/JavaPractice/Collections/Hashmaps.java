@@ -16,6 +16,7 @@ public class Hashmaps {
         System.out.println(animals.containsKey("Dog"));
 
         System.out.println(animals.containsValue("Random Batman")); // should be double
+
         System.out.println(animals.containsValue(4.0));
 
         System.out.println(animals.get("Dog"));
